@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wmgriffin1021
-- 👀 I’m interested in board games, strategy games and D&D. 
+- 👀 I’m interested in convincing people board games are great, finding people with no lives to play D&D with and hiding from the sun.
 - 🌱 I’m currently learning to become a full stack cloud developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
